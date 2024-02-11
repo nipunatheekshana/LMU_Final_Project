@@ -1,0 +1,13 @@
+{
+    "name": "Quality",
+    "alias": "quality",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Quality\\Providers\\QualityServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

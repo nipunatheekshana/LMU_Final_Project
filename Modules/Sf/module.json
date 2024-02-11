@@ -1,0 +1,13 @@
+{
+    "name": "Sf",
+    "alias": "sf",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sf\\Providers\\SfServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

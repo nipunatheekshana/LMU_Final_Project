@@ -1,0 +1,13 @@
+{
+    "name": "Mnu",
+    "alias": "mnu",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Mnu\\Providers\\MnuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
